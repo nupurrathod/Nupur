@@ -1,6 +1,6 @@
 # Hey, Nupur here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-## I am a Master student, ML reseracher, tech enthusiast 
+## I am a master student, ML reseracher, tech enthusiast 
 
 - 🌱 I’m currently learning React and Django 
 - 👯 I’m looking to collaborate with other content creators
