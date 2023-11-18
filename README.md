@@ -1,8 +1,8 @@
 # Hey, Nupur here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-## I am a master student, ML reseracher, tech enthusiast 
+## I am a master student and Tech enthusiast
 
-- 🌱 I’m currently learning React and Django 
+- 🌱 I’m currently learning React and Nodejs 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more into open source 
 - ⚡ Fun fact: I love to paint and dance
@@ -27,7 +27,7 @@
 ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext)
 ![PostgreSQL](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=PostgreSQL)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 
 
 
