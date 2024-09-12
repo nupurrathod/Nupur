@@ -2,7 +2,7 @@
 
 ## I am a master student and Tech enthusiast
 
-- 🌱 I’m currently learning React and Node.js 
+- 🌱 I’m currently learning React and Django 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more into open source 
 - ⚡ Fun fact: I love to paint and dance
